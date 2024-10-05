@@ -72,9 +72,6 @@ pytest tests/
 3. Make your changes
 4. Submit a pull request
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Additional Notes
 * **Intel MKL**: Ensure MKL is installed as part of the OpenVINO installation.
 * **oneDNN**: The oneDNN library is typically included with Intel's oneAPI toolkit, but make sure to verify its installation.
